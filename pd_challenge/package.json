@@ -1,0 +1,19 @@
+{
+  "name": "selenium-cucumber-js",
+  "version": "1.0.0",
+  "description": "Test automation project using Javascript, Selenium and Cucumber to automatize web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "report": "node ./core/report.js"
+  },
+  "author": "Fernando Benitez",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.1",
+    "@cucumber/pretty-formatter": "^1.0.0-alpha.1",
+    "asserts": "^4.0.2",
+    "chai": "^4.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
