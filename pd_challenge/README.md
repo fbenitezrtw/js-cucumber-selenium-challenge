@@ -2,9 +2,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%2323D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white)
-<a href="https://www.linkedin.com/in/-fernandodb/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 # Challenge Code
 
